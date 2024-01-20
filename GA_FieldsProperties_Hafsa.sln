@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA_FieldsProperties_Hafsa", "GA_FieldsProperties_Hafsa.csproj", "{95699EBE-F668-4993-8A89-0CAF66E81B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95699EBE-F668-4993-8A89-0CAF66E81B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95699EBE-F668-4993-8A89-0CAF66E81B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95699EBE-F668-4993-8A89-0CAF66E81B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95699EBE-F668-4993-8A89-0CAF66E81B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0560C78E-41C0-4551-A104-0EA305078A20}
+	EndGlobalSection
+EndGlobal
